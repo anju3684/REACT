@@ -1,0 +1,11 @@
+.text{
+    padding: 12px 20px;
+    width: 80%;
+    box-sizing: border-box;
+    margin: 30px 1px;
+}
+.textinput{
+    position: absolute;
+    width:80%;
+
+}
