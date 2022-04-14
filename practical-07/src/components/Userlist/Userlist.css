@@ -1,0 +1,20 @@
+.container{
+    max-width: 1200px;
+    width: 95vw;
+    margin: 0 auto;
+}
+.userList{
+    background-color: white;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pagination-layout{
+    position: relative;
+    left: -10%;
+}
+.Page navigation example{
+    position: absolute;
+    
+}
